@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778137852305,
+  "timestamp": 1778138158357,
   "index": "/dashboard-admin/index.html",
   "assetGroups": [
     {
@@ -60,7 +60,7 @@
     "/dashboard-admin/favicon-96x96.png": "6c3a0d55a95eb64579b2368811ff535ed36260dc",
     "/dashboard-admin/favicon.ico": "f8c0322cc2f10a2803a1781b781b5b26a637ceca",
     "/dashboard-admin/favicon.svg": "a31e97d93bfe50d11f490f22736f013c7de8555f",
-    "/dashboard-admin/index.html": "5bbd7f2df264f4ad8d7d64053542c57c81d061a1",
+    "/dashboard-admin/index.html": "6fd152cb65f5c3e83614159e118ba730359dff36",
     "/dashboard-admin/main-CJDOLVWI.js": "f0acdecdfff4fde8247c95cb737dadc2cbbb8334",
     "/dashboard-admin/manifest.webmanifest": "873d476f23b41011814a784c13550f2520b661b4",
     "/dashboard-admin/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
