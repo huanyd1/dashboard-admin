@@ -1,6 +1,6 @@
 {
   "name": "Dashboard Admin",
-  "short_name": "Dashboard",
+  "short_name": "HuanHub",
   "start_url": "/dashboard-admin/",
   "display": "standalone",
   "background_color": "#ffffff",
