@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778487485425,
+  "timestamp": 1778557737491,
   "index": "/dashboard-admin/index.html",
   "assetGroups": [
     {
@@ -11,19 +11,19 @@
         "ignoreVary": true
       },
       "urls": [
+        "/dashboard-admin/chunk-2XAKJMP5.js",
         "/dashboard-admin/chunk-KS2POYUD.js",
         "/dashboard-admin/chunk-LHODR5PL.js",
         "/dashboard-admin/chunk-MLMGL4QO.js",
         "/dashboard-admin/chunk-OQMBVK2D.js",
-        "/dashboard-admin/chunk-RTRHOIQT.js",
         "/dashboard-admin/chunk-TLPUJYZ4.js",
         "/dashboard-admin/chunk-VFCZJGS5.js",
         "/dashboard-admin/favicon.ico",
         "/dashboard-admin/index.html",
-        "/dashboard-admin/main-BHM7LZVE.js",
+        "/dashboard-admin/main-HAGNJ7VX.js",
         "/dashboard-admin/manifest.webmanifest",
         "/dashboard-admin/polyfills-PZSJNBYU.js",
-        "/dashboard-admin/styles-MAXZPQHU.css",
+        "/dashboard-admin/styles-RZXPMOMB.css",
         "/dashboard-admin/sw-push.js"
       ],
       "patterns": []
@@ -50,21 +50,21 @@
   "hashTable": {
     "/dashboard-admin/apple-touch-icon.png": "65e1854553b8f7195d4ba0fa1d6041fcc9f63095",
     "/dashboard-admin/assets/media/images/missile.jpg": "11ee00e6f5faece71e0a957d1525878039f4be5f",
+    "/dashboard-admin/chunk-2XAKJMP5.js": "8d68b9a767d753c6e28354268be3c3e0fd9a8fdb",
     "/dashboard-admin/chunk-KS2POYUD.js": "7d177e191686ca7c00db72d0107ba8b650a73b65",
     "/dashboard-admin/chunk-LHODR5PL.js": "9b889db4d10aafb64cc55d802fba61b8d32f3746",
     "/dashboard-admin/chunk-MLMGL4QO.js": "9dc35024c3d9a08bb348b817b8548d8be75e16d5",
     "/dashboard-admin/chunk-OQMBVK2D.js": "53b9bfe7f03be876952c579d61f1e37ea6ee5489",
-    "/dashboard-admin/chunk-RTRHOIQT.js": "0729047f51409b19c5dd7da2ec521d3dd516d4cc",
     "/dashboard-admin/chunk-TLPUJYZ4.js": "70008a5116f76afbbc5b7ca0db1ae1ef65455ca5",
     "/dashboard-admin/chunk-VFCZJGS5.js": "648cb2f9d417aac4e97bf700c23a2a186c5d6dd5",
     "/dashboard-admin/favicon-96x96.png": "6c3a0d55a95eb64579b2368811ff535ed36260dc",
     "/dashboard-admin/favicon.ico": "f8c0322cc2f10a2803a1781b781b5b26a637ceca",
     "/dashboard-admin/favicon.svg": "a31e97d93bfe50d11f490f22736f013c7de8555f",
-    "/dashboard-admin/index.html": "42aaa7b87582e7a83f27015c46e9ae698f50aedc",
-    "/dashboard-admin/main-BHM7LZVE.js": "7f55bef2d9ea1d241d31d6d11f9f6613812826a0",
+    "/dashboard-admin/index.html": "374b1ea43e9b2cf7b625cff19ed808f355e5e073",
+    "/dashboard-admin/main-HAGNJ7VX.js": "066e6c8867f926522ff67d8d2666f82bf0ef1b62",
     "/dashboard-admin/manifest.webmanifest": "05e38d6b5641d054d6e6b95ae05ee2e9e3fcf6f1",
     "/dashboard-admin/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
-    "/dashboard-admin/styles-MAXZPQHU.css": "c2c2984c67dd071c0d6b0de7172083ad72335190",
+    "/dashboard-admin/styles-RZXPMOMB.css": "c9d56ff31d6dcbf793ea158a0464662327cf732c",
     "/dashboard-admin/sw-push.js": "e95eb96ff261d57deb258f04fa125605ba6e7016",
     "/dashboard-admin/web-app-manifest-192x192.png": "c3f584563df8e09a8ae931fe4a48a8e292024e1d",
     "/dashboard-admin/web-app-manifest-512x512.png": "dd97d06d5978cf5806aa544145dc0718874c9b1a"
